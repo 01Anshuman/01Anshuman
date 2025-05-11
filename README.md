@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Anshuman</h1>
 <p align="center">
-  <img src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://media.giphy.com/media/5PiwF0xlr6DolqSTqk/giphy.gif)" width="200" alt="coder" />
+  <img src="https://media.giphy.com/media/5PiwF0xlr6DolqSTqk/giphy.gif" width="200" alt="coder" />
 </p>
 
 <p align="center">
