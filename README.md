@@ -68,6 +68,12 @@ If you’re building something exciting, mentoring young talent, or just want to
 <p align="center">
   <a href="https://www.linkedin.com/in/anshuman-mishra-83a069233" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="mailto:manshumanmishra221122@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://www.youtube.com/@acheiverskiduniya5891" target="_blank">
+    <img alt="Achievers Ki Duniya" src="https://img.shields.io/badge/YouTube-Achievers_ki_Duniya-red?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@growwithanshuman9445" target="_blank">
+    <img alt="Grow With Anshuman" src="https://img.shields.io/badge/YouTube-Grow_with_Anshuman-red?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
 
 ---
