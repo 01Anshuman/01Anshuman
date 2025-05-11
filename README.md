@@ -1,19 +1,19 @@
 <h1 align="center">Hi there 👋, I'm Anshuman</h1>
 <p align="center">
-  <img src="[https://media.giphy.com/media/5PiwF0xlr6DolqSTqk/giphy.gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)" width="200" alt="coder" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="coder" />
 </p>
 
 <p align="center">
-  🚀 Final-Year Computer Science Engineering Student | AI & Data Enthusiast📊 | Tech for Impact Advocate 🌍 |  Podcaster 🎙️
+  🚀 Final-Year Computer Science Engineering Student | 📊 AI & Data Enthusiast  | 🎙️ Podcaster | 🌍 Tech for Impact Advocate 
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me 👨‍💻
 
 🎓 I’m a **final-year Computer Science Engineering student** passionate about using **technology to solve real-world problems** and build impactful solutions.
 
-🔍 My journey began with a love for **Python programming**, which unlocked my path into:
+ My journey began with a love for **Python programming**, which unlocked my path into:
 - 🤖 **Artificial Intelligence**
 - 🧠 **Machine Learning**
 - 📊 **Data Analytics**
@@ -23,7 +23,7 @@ I’ve developed a strong foundation in building tools, analyzing data, and engi
 
 ---
 
-## ⚙️ What Drives Me
+## What Drives Me
 
 - 🐍 **Python Development** – Building automation tools and scalable systems
 - 🤖 **AI & ML** – Training machines to think, predict & assist in better decision-making
@@ -38,7 +38,7 @@ I’ve developed a strong foundation in building tools, analyzing data, and engi
 
 I actively create content and lead initiatives that empower **students from Tier 2/3 cities** to dream big and reach farther.
 
-### 🎙️ Achievers ki Duniya (YouTube)
+### 🎙️ Achiever's ki Duniya (YouTube)
 🧭 A podcast that showcases inspiring stories of GATE toppers, career changers, and student journeys with practical roadmaps.
 
 ### 🎤 Grow with Anshuman
@@ -66,9 +66,8 @@ I’m open to:
 If you’re building something exciting, mentoring young talent, or just want to connect:
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&style=for-the-badge" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/anshuman-mishra-83a069233" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:manshumanmishra221122@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
 </p>
 
 ---
