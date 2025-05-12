@@ -9,15 +9,15 @@
 
 ---
 
-## About Me 👨‍💻
+## About Me 
 
 🎓 I’m a **final-year Computer Science Engineering student** passionate about using **technology to solve real-world problems** and build impactful solutions.
 
  My journey began with a love for **Python programming**, which unlocked my path into:
-- 🤖 **Artificial Intelligence**
-- 🧠 **Machine Learning**
-- 📊 **Data Analytics**
-- 🏗️ **Smart System Integration**
+-  **Artificial Intelligence**
+-  **Machine Learning**
+-  **Data Analytics**
+-  **Smart System Integration**
 
 I’ve developed a strong foundation in building tools, analyzing data, and engineering logic-driven systems—and now, I’m channeling all that into **meaningful action** and **community upliftment**.
 
@@ -25,10 +25,10 @@ I’ve developed a strong foundation in building tools, analyzing data, and engi
 
 ## What Drives Me
 
-- 🐍 **Python Development** – Building automation tools and scalable systems
-- 🤖 **AI & ML** – Training machines to think, predict & assist in better decision-making
-- 📈 **Data Analytics & BI** – Extracting value and purpose from complex datasets
-- 🌐 **Tech with Impact** – Creating life-enhancing solutions, especially for underserved regions
+-  **Python Development** – Building automation tools and scalable systems
+-  **AI & ML** – Training machines to think, predict & assist in better decision-making
+-  **Data Analytics & BI** – Extracting value and purpose from complex datasets
+-  **Tech with Impact** – Creating life-enhancing solutions, especially for underserved regions
 
 ---
 
@@ -38,10 +38,10 @@ I’ve developed a strong foundation in building tools, analyzing data, and engi
 
 I actively create content and lead initiatives that empower **students from Tier 2/3 cities** to dream big and reach farther.
 
-### 🎙️ Achiever's ki Duniya (YouTube)
+### Achiever's ki Duniya (YouTube) 🎙️
 🧭 A podcast that showcases inspiring stories of GATE toppers, career changers, and student journeys with practical roadmaps.
 
-### 🎤 Grow with Anshuman
+###  Grow with Anshuman 🎤
 💬 A communication-based initiative where I help students boost their:
 - Public Speaking
 - Communication Confidence
@@ -54,10 +54,10 @@ These soft skills are as essential as technical skills in today’s world.
 ## 🌱 What I’m Looking For
 
 I’m open to:
-- 💼 **Internships / Full-time roles** in AI, Data Science, or Python-based development
-- 🤝 **Collaborations** on impactful, tech-powered projects
-- 🎤 **Speaking / Mentorship** opportunities
-- 💡 **Conversations** with like-minded innovators
+- **Internships / Full-time roles** in AI, Data Science, or Python-based development
+- **Collaborations** on impactful, tech-powered projects
+- **Speaking / Mentorship** opportunities
+- **Conversations** with like-minded innovators
 
 ---
 
@@ -85,7 +85,7 @@ If you’re building something exciting, mentoring young talent, or just want to
 
 ---
 
-## 📊 GitHub Stats: 
+## GitHub Stats 📊: 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=01Anshuman&show_icons=true&theme=radical" />
