@@ -90,4 +90,6 @@ If you’re building something exciting, mentoring young talent, or just want to
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=01Anshuman&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=01Anshuman&theme=radical" />
+  <img src="https://img.shields.io/badge/Public%20Repos-0-blue?style=for-the-badge&logo=github" />
+
 </p>
