@@ -1,0 +1,25 @@
+name: Update README with Repo Count
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # Runs every hour
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install jq
+        run: sudo apt-get install jq
+      - name: Get public repo count and update README
+        run: |
+          count=$(curl -s https://api.github.com/users/01Anshuman | jq '.public_repos')
+          sed -i "s/Public Repos-[0-9]\+/Public Repos-${count}/" README.md
+      - name: Commit and push if changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Update public repo count" || echo "No changes to commit"
+          git push
