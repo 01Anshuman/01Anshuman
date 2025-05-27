@@ -77,14 +77,13 @@ I’m open to:
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/01Anshuman/[your-repo-name]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=01Anshuman&repo=[[contact-book](https://github.com/01Anshuman/contact-book)]&theme=radical" alt="[contact-book]" />
+  <a href="https://github.com/01Anshuman/contact-book">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=01Anshuman&repo=contact-book&theme=radical" alt="Contact Book GUI" />
   </a>
-  <a href="https://github.com/01Anshuman/[[todo_app](https://github.com/01Anshuman/todo_app)]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=01Anshuman&repo=[todo_app]&theme=radical" alt="[todo_app]" />
+  <a href="https://github.com/01Anshuman/To-Do-List-GUI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=01Anshuman&repo=To-Do-List-GUI&theme=radical" alt="To-Do List GUI" />
   </a>
 </p>
-
 ---
 
 ## 📊 GitHub Stats
