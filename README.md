@@ -85,12 +85,11 @@ If you’re building something exciting, mentoring young talent, or just want to
 
 ---
 
-## GitHub Stats 📊: 
+## GitHub Stats 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=01Anshuman&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=01Anshuman&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=01Anshuman&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Anshuman's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=01Anshuman&theme=radical" alt="Anshuman's Streak Stats" />
   <br/>
-  <img src="https://img.shields.io/badge/Public%20Repos-0-blue?style=for-the-badge&logo=github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01Anshuman&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
