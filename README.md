@@ -80,8 +80,8 @@ I’m open to:
   <a href="https://github.com/01Anshuman/contact-book">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=01Anshuman&repo=contact-book&theme=radical" alt="Contact Book GUI" />
   </a>
-  <a href="https://github.com/01Anshuman/To-Do-List-GUI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=01Anshuman&repo=To-Do-List-GUI&theme=radical" alt="To-Do List GUI" />
+  <a href="https://github.com/01Anshuman/todo_app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=01Anshuman&repo=todo_app&theme=radical" alt="To-Do List GUI" />
   </a>
 </p>
 ---
