@@ -78,10 +78,10 @@ I’m open to:
 
 <p align="center">
   <a href="https://github.com/01Anshuman/[your-repo-name]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=01Anshuman&repo=[[your-repo-name](https://github.com/01Anshuman/contact-book)]&theme=radical" alt="[Your Repo Name]" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=01Anshuman&repo=[[contact-book](https://github.com/01Anshuman/contact-book)]&theme=radical" alt="[contact-book]" />
   </a>
-  <a href="https://github.com/01Anshuman/[[your-repo-name-2](https://github.com/01Anshuman/todo_app)]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=01Anshuman&repo=[your-repo-name-2]&theme=radical" alt="[Your Repo Name 2]" />
+  <a href="https://github.com/01Anshuman/[[todo_app](https://github.com/01Anshuman/todo_app)]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=01Anshuman&repo=[todo_app]&theme=radical" alt="[todo_app]" />
   </a>
 </p>
 
