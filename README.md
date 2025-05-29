@@ -47,7 +47,7 @@ I’m driven to channel my skills into **meaningful action** and **community upl
 
 ## 🛠️ Beyond Code
 
-> _"Knowledge shared is exponential multiplied."_
+> _"Knowledge shared is exponentially multiplied."_
 
 I actively create content and lead initiatives to empower **students from Tier 2/3 cities** to dream big and reach farther.
 
