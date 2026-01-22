@@ -29,8 +29,8 @@ I bridge the gap between complex business challenges and cutting-edge technical 
 
 ### 📈 GitHub Analytics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=radical" alt="Top Languages" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=github.com/01Anshuman&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github.com/01Anshuman&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
 
 ---
