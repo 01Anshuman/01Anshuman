@@ -1,116 +1,46 @@
-<h1 align="center">Hi there 👋, I'm Anshuman</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200" alt="Male coder working on laptop" />
-</p>
+# Hi there, I'm Anshuman Mishra! 👋 
 
-<p align="center">
-  🚀 Final-Year Computer Science Engineering Student | 📊 AI & Data Enthusiast | 🎙️ Podcaster | 🌍 Tech for Impact Advocate
-</p>
+### Solution Consultant | AI Automation Expert | Content Creator
 
----
+I bridge the gap between complex business challenges and cutting-edge technical solutions. My focus is on building **intelligent automation ecosystems** that don't just work—they scale. 
 
-## 🌟 About Me
-
-🎓 I’m a **final-year Computer Science Engineering student** passionate about using **technology to solve real-world problems** and build impactful solutions.
-
-My journey began with a love for **Python programming**, which unlocked my path into:
-- **Artificial Intelligence** – Crafting intelligent systems
-- **Machine Learning** – Predicting and optimizing outcomes
-- **Data Analytics** – Uncovering insights from data
-- **Smart System Integration** – Building scalable solutions
-
-I’m driven to channel my skills into **meaningful action** and **community upliftment**, especially for underserved regions.
+- 🤖 **Expertise:** AI Automation, RAG Architectures, and Workflow Optimization.
+- 📊 **Data Driven:** Transforming raw data into actionable insights via Power BI & SQL.
+- ✍️ **Creative:** Passionate about content creation and simplifying the AI landscape for others.
 
 ---
 
-## 🛠️ Skills & Tools
+### 🛠 My Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **AI & Automation** | ![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=flat-square&logo=n8n&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Gen-blueviolet?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
+| **Backend & Logic** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=flat-square&logo=django&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white) |
+| **Data & Analytics** | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=microsoftpowerbi&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) |
 
 ---
 
-## What Drives Me
-
-- **Python Development** – Building automation tools and scalable systems
-- **AI & ML** – Training machines to think, predict, and assist
-- **Data Analytics & BI** – Extracting value from complex datasets
-- **Tech with Impact** – Creating solutions for underserved communities
+### 🚀 What I'm working on
+- **Advanced RAG Pipelines:** Building custom knowledge-retrieval systems for enterprise documentation.
+- **n8n Workflow Hub:** Automating lead generation and CRM management using LLM agents.
+- **AI Content Series:** Creating deep-dive content on how AI automation is reshaping the role of modern consultants.
 
 ---
 
-## 🛠️ Beyond Code
-
-> _"Knowledge shared is exponentially multiplied."_
-
-I actively create content and lead initiatives to empower **students from Tier 2/3 cities** to dream big and reach farther.
-
-### Achiever's ki Duniya (YouTube) 🎙️
-🧭 A podcast showcasing inspiring stories of GATE toppers, career changers, and student journeys with practical roadmaps.
-
-### Grow with Anshuman 🎤
-💬 Helping students boost:
-- Public Speaking
-- Communication Confidence
-- Self-awareness
-
-*Soft skills are as vital as technical skills in today’s world.*
-
----
-
-## 🌱 What I’m Looking For
-
-I’m open to:
-- **Internships / Full-time roles** in AI, Data Science, or Python development
-- **Collaborations** on impactful, tech-powered projects
-- **Speaking / Mentorship** opportunities
-- **Conversations** with like-minded innovators
-
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/01Anshuman/contact-book">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=01Anshuman&repo=contact-book&theme=radical" alt="Contact Book GUI" />
-  </a>
-  <a href="https://github.com/01Anshuman/todo_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=01Anshuman&repo=todo_app&theme=radical" alt="To-Do List GUI" />
-  </a>
-</p>
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=01Anshuman&show_icons=true&theme=radical&include_all_commits=true&cache_bust=20250527" alt="Anshuman's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=01Anshuman&theme=radical" alt="Anshuman's Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01Anshuman&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=01Anshuman&theme=radical" alt="Contribution Graph" />
+### 📈 GitHub Analytics
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
 
 ---
 
-## 🌍 Get Involved!
+### 🤝 Let's Connect!
+I’m always open to discussing automation projects, AI strategy, or content collaborations.
 
-⭐ Enjoyed my work? Star my repositories to show support!  
-📫 Have an idea or project? Reach out via [LinkedIn](https://www.linkedin.com/in/anshuman-mishra-83a069233) or [Email](mailto:manshumanmishra221122@gmail.com).  
-💡 Let’s build something impactful together!
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=01Anshuman.01Anshuman" alt="Visitor Count" />
-</p>
+- 💼 [LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN])
+- 🌐 [Portfolio/Website](https://yourwebsite.com)
+- 📧 [Your Email]
 
 ---
-
-## 📌 Quote I Live By
-
-> _“Don’t limit your challenges. Challenge your limits.”_  
-> — Unknown
+*"Automating the mundane to focus on the meaningful."*
