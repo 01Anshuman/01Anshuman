@@ -29,8 +29,8 @@ I bridge the gap between complex business challenges and cutting-edge technical 
 
 ### 📈 GitHub Analytics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=github.com/01Anshuman&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github.com/01Anshuman&layout=compact&theme=radical" alt="Top Languages" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=01Anshuman&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01Anshuman&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
 
 ---
@@ -38,9 +38,9 @@ I bridge the gap between complex business challenges and cutting-edge technical 
 ### 🤝 Let's Connect!
 I’m always open to discussing automation projects, AI strategy, or content collaborations.
 
-- 💼 [LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN])
-- 🌐 [Portfolio/Website](https://yourwebsite.com)
-- 📧 [Your Email]
+- 💼 [LinkedIn]([https://linkedin.com/in/[YOUR-LINKEDIN]](https://www.linkedin.com/in/anshuman-mishra-83a069233/))
+- 🌐 [Portfolio/Website]([https://yourwebsite.com](https://digitech-anshuman--5quwg64.gamma.site/))
+- 📧 [manshumanmishra221122@gmail.com]
 
 ---
 *"Automating the mundane to focus on the meaningful."*
