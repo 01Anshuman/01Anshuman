@@ -39,7 +39,7 @@ I bridge the gap between complex business challenges and cutting-edge technical 
 I’m always open to discussing automation projects, AI strategy, or content collaborations.
 
 - 💼 [LinkedIn]([https://linkedin.com/in/anshuman-mishra-83a069233/)
-- 🌐 [Portfolio/Website](https://digitech-anshuman--5quwg64.gamma.site/)
+- 🌐 [Portfolio/Website]([https://digitech-anshuman--5quwg64.gamma.site/](https://anshuman01-portfolio.vercel.app/))
 - 📧 [manshumanmishra221122@gmail.com]
 
 ---
