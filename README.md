@@ -6,7 +6,7 @@
 
 *Bengaluru, India — building at the intersection of code, sales, and content*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-growwithanshuman.netlify.app-00f5a0?style=flat-square&logo=vercel&logoColor=white)](https://growwithanshuman.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-[growwithanshuman.netlify.app](https://anshuman01-portfolio.vercel.app/)-00f5a0?style=flat-square&logo=vercel&logoColor=white)](https://growwithanshuman.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshuman_Mishra-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshuman-mishra-83a069233)
 [![YouTube](https://img.shields.io/badge/YouTube-@growwithanshuman9445-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@growwithanshuman9445)
 [![Email](https://img.shields.io/badge/Email-manshumanmishra221122@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:manshumanmishra221122@gmail.com)
